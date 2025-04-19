@@ -1,0 +1,151 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Apr 14 12:00:34 2025
+# Process ID: 33016
+# Current directory: C:/Users/Duy/BTL_RISC
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent35476 C:\Users\Duy\BTL_RISC\BTL_RISC.xpr
+# Log file: C:/Users/Duy/BTL_RISC/vivado.log
+# Journal file: C:/Users/Duy/BTL_RISC\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Duy/BTL_RISC/BTL_RISC.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 1}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 2}
+add_wave {{/testbench/risc_inst}} 
+update_compile_order -fileset sim_1
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+update_compile_order -fileset sim_1
+launch_simulation
+source risc_test.tcl
+close_sim
+launch_simulation
+source risc_test.tcl
+current_wave_config {Untitled 4}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source risc_test.tcl
+current_wave_config {Untitled 5}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source risc_test.tcl
+current_wave_config {Untitled 6}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source risc_test.tcl
+restart
+run 1 us
+run 1 us
+run 1 us
+current_wave_config {Untitled 7}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source risc_test.tcl
+current_wave_config {Untitled 8}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source risc_test.tcl
+current_wave_config {Untitled 9}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source risc_test.tcl
+current_wave_config {Untitled 10}
+add_wave {{/risc_test/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+current_sim simulation_2
+close_sim
+launch_simulation
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 11}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 12}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+close_sim
+close_sim

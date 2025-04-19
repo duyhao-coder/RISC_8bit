@@ -1,0 +1,13 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Duy/BTL_RISC/BTL_RISC.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sim_1/new/testbench.v,1744814575,verilog,,,,testbench,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/ALU.v,1744641282,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/Memory_t.v,,ALU,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/Memory_t.v,1744878019,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/PC.v,,Memory_t;device_bus,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/PC.v,1744609151,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/RISC_8.v,,ADD_phase;Program_Counter,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/RISC_8.v,1744878022,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/Register.v,,RISC_CPU,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/Register.v,1744552499,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/controler.v,,Register,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/controler.v,1744594789,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/mux_add.v,,controler,,,,,,,,
+C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/mux_add.v,1744553352,verilog,,C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sim_1/new/testbench.v,,Mux_Address,,,,,,,,

@@ -1,0 +1,73 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Apr 14 21:24:04 2025
+# Process ID: 23104
+# Current directory: C:/Users/Duy/BTL_RISC
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11360 C:\Users\Duy\BTL_RISC\BTL_RISC.xpr
+# Log file: C:/Users/Duy/BTL_RISC/vivado.log
+# Journal file: C:/Users/Duy/BTL_RISC\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Duy/BTL_RISC/BTL_RISC.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source testbench.tcl
+restart
+current_wave_config {Untitled 1}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 2}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 3}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 4}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim
+launch_simulation
+source testbench.tcl
+current_wave_config {Untitled 5}
+add_wave {{/testbench/risc_inst}} 
+restart
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+run 1 us
+close_sim

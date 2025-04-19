@@ -1,0 +1,22 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Users/VIVADO/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto f5c9d0a3c9eb4e3eac0105847f1f72d1 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 3 differs from formal bit length 5 for port phase_out [C:/Users/Duy/BTL_RISC/BTL_RISC.srcs/sources_1/new/RISC_8.v:43]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.ADD_phase
+Compiling module xil_defaultlib.Mux_Address
+Compiling module xil_defaultlib.Memory_t
+Compiling module xil_defaultlib.Register
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.controler
+Compiling module xil_defaultlib.device_bus
+Compiling module xil_defaultlib.RISC_CPU
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav

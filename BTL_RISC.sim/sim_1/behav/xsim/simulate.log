@@ -1,0 +1,980 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = xxxxx | Mux_add_out = xxxxx
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = xxxxx | Mux_add_out = 00000
+time=0 | PC=0 
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = 01101 | Mux_add_out = 00000
+time=13000 | PC=1 
+Mux_Address | select = 1 | pc_in = 00001 | operand_address = 01101 | Mux_add_out = 01101
+Mux_Address | select = 1 | pc_in = 00001 | operand_address = 01101 | Mux_add_out = 00001
+Mux_Address | select = 1 | pc_in = 00001 | operand_address = 01110 | Mux_add_out = 00001
+time=29000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01110 | Mux_add_out = 01110
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01110 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=45000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=61000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=77000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=93000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=109000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=125000 | PC=8 
+time=129000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 00000 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=141000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=157000 | PC=11 
+time=161000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=173000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=189000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=205000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=221000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=237000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=253000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=269000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=285000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=301000 | PC=11 
+time=305000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=317000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=333000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=349000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=365000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=381000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=397000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=413000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=429000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=445000 | PC=11 
+time=449000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=461000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=477000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=493000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=509000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=525000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=541000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=557000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=573000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=589000 | PC=11 
+time=593000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=605000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=621000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=637000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=653000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=669000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=685000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=701000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=717000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=733000 | PC=11 
+time=737000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=749000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=765000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=781000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=797000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=813000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=829000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=845000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=861000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=877000 | PC=11 
+time=881000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=893000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=909000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=925000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=941000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=957000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=973000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=989000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1005000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1021000 | PC=11 
+time=1025000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1037000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1053000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1069000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1085000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1101000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1117000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1133000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1149000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1165000 | PC=11 
+time=1169000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1181000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1197000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1213000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1229000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1245000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1261000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1277000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1293000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1309000 | PC=11 
+time=1313000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1325000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1341000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1357000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1373000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1389000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1405000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1421000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1437000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1453000 | PC=11 
+time=1457000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1469000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1485000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1501000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1517000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1533000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1549000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1565000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1581000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1597000 | PC=11 
+time=1601000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1613000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1629000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1645000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1661000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1677000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1693000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1709000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1725000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1741000 | PC=11 
+time=1745000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1757000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1773000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1789000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1805000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1821000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1837000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1853000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1869000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1885000 | PC=11 
+time=1889000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1901000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1917000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1933000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1949000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1965000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1981000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1997000 | PC=9 
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = xxxxx | Mux_add_out = xxxxx
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = xxxxx | Mux_add_out = 00000
+time=0 | PC=0 
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 00000 | operand_address = 01101 | Mux_add_out = 00000
+time=13000 | PC=1 
+Mux_Address | select = 1 | pc_in = 00001 | operand_address = 01101 | Mux_add_out = 01101
+Mux_Address | select = 1 | pc_in = 00001 | operand_address = 01101 | Mux_add_out = 00001
+Mux_Address | select = 1 | pc_in = 00001 | operand_address = 01110 | Mux_add_out = 00001
+time=29000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01110 | Mux_add_out = 01110
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01110 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=45000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=61000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=77000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=93000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=109000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=125000 | PC=8 
+time=129000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 00000 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=141000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=157000 | PC=11 
+time=161000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=173000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=189000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=205000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=221000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=237000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=253000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=269000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=285000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=301000 | PC=11 
+time=305000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=317000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=333000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=349000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=365000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=381000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=397000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=413000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=429000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=445000 | PC=11 
+time=449000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=461000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=477000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=493000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=509000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=525000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=541000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=557000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=573000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=589000 | PC=11 
+time=593000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=605000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=621000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=637000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=653000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=669000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=685000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=701000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=717000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=733000 | PC=11 
+time=737000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=749000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=765000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=781000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=797000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=813000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=829000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=845000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=861000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=877000 | PC=11 
+time=881000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=893000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=909000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=925000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=941000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=957000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=973000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=989000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1005000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1021000 | PC=11 
+time=1025000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1037000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1053000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1069000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1085000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1101000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1117000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1133000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1149000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1165000 | PC=11 
+time=1169000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1181000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1197000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1213000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1229000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1245000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1261000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1277000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1293000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1309000 | PC=11 
+time=1313000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1325000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1341000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1357000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1373000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1389000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1405000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1421000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1437000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1453000 | PC=11 
+time=1457000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1469000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1485000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1501000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1517000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1533000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1549000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1565000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1581000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1597000 | PC=11 
+time=1601000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1613000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1629000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1645000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1661000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1677000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1693000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1709000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1725000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1741000 | PC=11 
+time=1745000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1757000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1773000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1789000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1805000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1821000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1837000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1853000 | PC=9 
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 10011
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10011 | Mux_add_out = 01001
+Mux_Address | select = 1 | pc_in = 01001 | operand_address = 10100 | Mux_add_out = 01001
+time=1869000 | PC=10 
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 10100
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 10100 | Mux_add_out = 01010
+Mux_Address | select = 1 | pc_in = 01010 | operand_address = 00010 | Mux_add_out = 01010
+time=1885000 | PC=11 
+time=1889000 | PC=2 
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 00010 | Mux_add_out = 00010
+Mux_Address | select = 1 | pc_in = 00010 | operand_address = 01111 | Mux_add_out = 00010
+time=1901000 | PC=3 
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 01111
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 01111 | Mux_add_out = 00011
+Mux_Address | select = 1 | pc_in = 00011 | operand_address = 10000 | Mux_add_out = 00011
+time=1917000 | PC=4 
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 10000
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10000 | Mux_add_out = 00100
+Mux_Address | select = 1 | pc_in = 00100 | operand_address = 10001 | Mux_add_out = 00100
+time=1933000 | PC=5 
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00101 | operand_address = 10001 | Mux_add_out = 00101
+time=1949000 | PC=6 
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 10001
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10001 | Mux_add_out = 00110
+Mux_Address | select = 1 | pc_in = 00110 | operand_address = 10010 | Mux_add_out = 00110
+time=1965000 | PC=7 
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 10010
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 10010 | Mux_add_out = 00111
+Mux_Address | select = 1 | pc_in = 00111 | operand_address = 00000 | Mux_add_out = 00111
+time=1981000 | PC=8 
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 00000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 00000 | Mux_add_out = 01000
+Mux_Address | select = 1 | pc_in = 01000 | operand_address = 10011 | Mux_add_out = 01000
+time=1997000 | PC=9 
