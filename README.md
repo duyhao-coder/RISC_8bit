@@ -43,10 +43,6 @@ STO	110	M[addr] ← AC
 JMP	111	PC ← addr
 🧪 Sample Program
 This sample loads values from memory, performs arithmetic, stores the result, and loops:
-
-verilog
-Sao chép
-Chỉnh sửa
 mem[0] = 8'b101_01010;  // LDA 10      ; AC = 3
 mem[1] = 8'b010_01011;  // ADD 11      ; AC = 3 + 4 = 7
 mem[2] = 8'b100_01100;  // XOR 12      ; AC = 7 ^ 1 = 6
@@ -55,47 +51,29 @@ mem[4] = 8'b110_01110;  // STO 14      ; Store result
 mem[5] = 8'b111_00000;  // JMP 0       ; Loop
 🧠 Design Notes
 Phase Counter: CPU cycles through 8 predefined phases (Fetch → Decode → Execute)
-
 Control Logic: Based on current opcode and phase, generates control signals
-
 Memory: Supports both instruction and data memory; optionally can split into separate modules
-
 Floating-Point: Optional 8-bit float format (1 sign bit, 3 exponent bits, 4 mantissa bits)
-
 Expandability: Easily extend opcode width, data width, or instruction set
 
 📦 Test Cases Included
 ✔️ Arithmetic loop
-
 ✔️ Conditional skip with SKZ
-
 ✔️ Store and load tests
-
 ✔️ Infinite loop with jump
-
 ✔️ Optional Float8 tests
-
 🛠️ Tools
-Vivado Simulator or any Verilog simulation environment
-
+Vivado Simulator or any Verilog simulation environment=
 Written in SystemVerilog/Verilog 2001
-
 Simulation waveforms viewable via Vivado, ModelSim, or online tools like EDA Playground
 
 🧩 Potential Extensions
 🧠 Add pipeline or hazard detection
-
 📈 Add Multiply/Divide units
-
 🌐 UART or VGA output integration
-
 💾 Load instruction/data from external files
-
 🧮 Enhanced ALU with signed ops, shifts, or Float8 mode selector
-
 📬 Author
 Duy – Designed as part of coursework in [Computer Architecture / Digital Design].
 Open to suggestions and improvements via GitHub Issues or Pull Requests!
 
-📘 License
-This project is open source under the MIT License.
